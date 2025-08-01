@@ -11,6 +11,11 @@ It features a dynamic combat system, a credit-based economy, various enemies, co
 - 🎒 **Collectible Items**  
   Pick up weapons, consumables, and special artifacts to progress through the game.
 
+- 🌿 **Living Environment**  
+  The game world evolves over time:  
+  - **Spawners** periodically generate new **enemies**.  
+  - **Plants** grow and eventually **produce fruits**, which players can collect as **items**.
+
 - 💰 **Credit System (In-game Currency)**  
   Earn or spend credits by selling items or purchasing them at in-game merchants.
 
