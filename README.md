@@ -1,7 +1,8 @@
 # Static Factory
 
 **Static Factory** is a text-based adventure game developed in Java, designed using object-oriented programming principles.
-It features a dynamic combat system, a credit-based economy, various enemies, collectible items, and several interconnected maps. The game is built using the FIT2099 game engine framework developed at Monash University.
+It features a dynamic combat system, collectible items, a living world, a credit-based economy, and several interconnected maps. 
+The game is built using the FIT2099 game engine framework developed at Monash University.
 
 ## 🕹️ Features
 
@@ -13,8 +14,8 @@ It features a dynamic combat system, a credit-based economy, various enemies, co
 
 - 🌿 **Living Environment**  
   The game world evolves over time:  
-  - **Spawners** periodically generate new **enemies**.  
-  - **Plants** grow and eventually **produce fruits**, which players can collect as **items**.
+  - **Spawners** periodically generate new enemies.  
+  - **Plants** grow and eventually produce fruits, which players can collect and use.
 
 - 💰 **Credit System (In-game Currency)**  
   Earn or spend credits by selling items or purchasing them at in-game merchants.
