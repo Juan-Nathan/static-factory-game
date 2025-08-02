@@ -11,7 +11,7 @@ import game.actors.SuspiciousAstronaut;
  * A Spawner class responsible for spawning Suspicious Astronauts.
  */
 
-public class SuspiciousAstronautSpawner implements Spawner{
+public class SuspiciousAstronautSpawner implements Spawner {
 
     /**
      * Random number generator.
@@ -41,6 +41,7 @@ public class SuspiciousAstronautSpawner implements Spawner{
         }
     }
 }
+
 
 
 
