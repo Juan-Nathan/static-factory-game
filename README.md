@@ -37,8 +37,9 @@ The game is built using the FIT2099 game engine framework developed at Monash Un
 
 ## 📄 Documentation
 
-Documentation (UML diagrams) can be found in the `docs/design/iterX` folder.
+Documentation (UML diagrams) can be found in the `docs/iterX` folder.
 
 ## 👥 Authors
 
 Developed by Juan Nathan, Hiba Zaman, Ying Zhang Mak, and Kevin Gia Khang Phan for FIT2099 at Monash University.
+
