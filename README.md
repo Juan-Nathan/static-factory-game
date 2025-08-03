@@ -31,7 +31,7 @@ The game is built using the FIT2099 game engine framework developed at Monash Un
 
 ## 🛠️ How to Play
 
-1. Clone the repository.
+1. Clone the repository or download the ZIP file from GitHub.
 2. Open the project folder in IntelliJ IDEA (or other Java IDE).
 3. Run `src/game/Application.java`.
 
@@ -42,4 +42,5 @@ Documentation (UML diagrams) can be found in the `docs/iterX` folder.
 ## 👥 Authors
 
 Developed by Juan Nathan, Hiba Zaman, Ying Zhang Mak, and Kevin Gia Khang Phan for FIT2099 at Monash University.
+
 
