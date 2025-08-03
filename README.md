@@ -1,10 +1,10 @@
-# Static Factory
+# 🎮 Static Factory
 
 **Static Factory** is a text-based adventure game developed in Java, designed using object-oriented programming principles.
 It features a dynamic combat system, collectible items, a living world, a credit-based economy, and several interconnected maps. 
 The game is built using the FIT2099 game engine framework developed at Monash University.
 
-## 🕹️ Features
+## ✨ Features
 
 - ⚔️ **Multiple Enemies**  
   Encounter a variety of enemies, each with distinct behaviors and challenges.
@@ -29,11 +29,11 @@ The game is built using the FIT2099 game engine framework developed at Monash Un
 - 🧩 **Extensible Gameplay**  
   Easy to add new maps, enemies, items, and features due to the modular architecture.
 
-## 🛠️ How to Play
+## 🕹️ How to Play
 
 1. Clone the repository or download the ZIP file from GitHub.
 2. Open the project folder in IntelliJ IDEA (or other Java IDE).
-3. Run `src/game/Application.java`.
+3. Run `src/game/Application.java` inside the IDE.
 
 ## 📄 Documentation
 
@@ -42,5 +42,3 @@ Documentation (UML diagrams) can be found in the `docs/iterX` folder.
 ## 👥 Authors
 
 Developed by Juan Nathan, Hiba Zaman, Ying Zhang Mak, and Kevin Gia Khang Phan for FIT2099 at Monash University.
-
-
