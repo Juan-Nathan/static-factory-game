@@ -1,7 +1,7 @@
 # 🎮 Static Factory
 
-**Static Factory** is a text-based roguelike game developed in Java, designed using object-oriented programming principles.
-It features a dynamic combat system, collectible items, a living world, a credit-based economy, and several interconnected maps. 
+This project, **Static Factory**, is a text-based roguelike game developed in Java, designed using object-oriented programming principles.
+
 The game is built using the FIT2099 game engine framework developed at Monash University.
 
 ## Features
@@ -42,4 +42,5 @@ Documentation (UML diagrams) can be found in the `docs/iterX` folder.
 ## Authors
 
 Developed by Juan Nathan, Hiba Zaman, Ying Zhang Mak, and Kevin Gia Khang Phan for FIT2099 at Monash University Malaysia.
+
 
