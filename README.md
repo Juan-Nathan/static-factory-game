@@ -33,7 +33,8 @@ Documentation (UML diagrams) can be found in the `docs/iterX` folder.
 
 ## Authors
 
-Developed by Juan Nathan, Hiba Zaman, Ying Zhang Mak, and Kevin Gia Khang Phan for FIT2099 at Monash University Malaysia.
+Developed by Juan Nathan, Hiba Zaman, Ying Zhang Mak, and Kevin Gia Khang Phan.
+
 
 
 
