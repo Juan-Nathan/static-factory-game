@@ -17,7 +17,7 @@ This project, **Static Factory**, is a text-based roguelike game developed in Ja
 - **Multiple Maps**  
   - Travel across multiple interconnected maps, each with unique layouts, characters, and environmental conditions.
 - **Modular, Object-Oriented Design**  
-  - Uses clean abstractions and patterns for easy expansion and maintenance.
+  - Uses clean abstractions and patterns for scalability and ease of maintenance.
 - **Extensible Gameplay**  
   - Easy to add new maps, enemies, items, and features due to the modular architecture.
 
@@ -34,8 +34,3 @@ Documentation (UML diagrams) can be found in the `docs/iterX` folder.
 ## Authors
 
 Developed by Juan Nathan, Hiba Zaman, Ying Zhang Mak, and Kevin Gia Khang Phan.
-
-
-
-
-
